@@ -5,11 +5,11 @@ import sqlite3
 import time
 
 # Your account details
-api_id = 27026494
-api_hash = 'b0feccae071ddb5714042204f1eee290'
-phone_number = '+41762295575'
+api_id = ...
+api_hash = '...'
+phone_number = '...'
 download_folder = 'telegram_videos'
-source_channel = '@kafiha'
+source_channel = '@...'
 
 # Maximum download size in bytes (100 MB)
 MAX_DOWNLOAD_SIZE = 100 * 1024 * 1024
